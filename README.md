@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img height="" width="" src="https://github.com/raigz1/raigz1/blob/main/octocat-1683285195464.png">
-![](https://github.com/raigz1/raigz1/blob/main/octocat-1683285195464.png)
+<img height="180em" width="" src="https://github.com/raigz1/raigz1/blob/main/octocat-1683285195464.png">
+
