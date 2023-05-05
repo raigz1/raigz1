@@ -1,4 +1,5 @@
-### Hi there 👋
+## Olá, me chamo Raissa 👋
+# 🌱 Atualmente estou aprendendo sobre banco de dados
 
 <!--
 **raigz1/raigz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +16,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img height="180em" width="" src="https://github.com/raigz1/raigz1/blob/main/octocat-1683285195464.png">
-
